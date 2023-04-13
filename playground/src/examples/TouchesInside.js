@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
-import { StyleSheet, View, Text, Switch, Button, Picker, Slider, WebView } from 'react-native';
+import { StyleSheet, View, Text, Switch, Button, WebView } from 'react-native';
+import Slider from '@react-native-community/slider';
+import { Picker } from '@react-native-community/picker';
 import Interactable from 'react-native-interactable';
 
 export default class TouchesInside extends Component {

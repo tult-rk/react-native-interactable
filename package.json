@@ -90,5 +90,9 @@
         "name": "Pixel_2_API_26"
       }
     }
+  },
+  "dependencies": {
+    "@react-native-picker/picker": "^1.8.1",
+    "@react-native-community/slider": "^4.4.2"
   }
 }
